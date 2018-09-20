@@ -1,0 +1,14 @@
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\bin\Debug\DwgNum3.exe
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\bin\Debug\DwgNum3.pdb
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\bin\Debug\DwgNum3.xml
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.frmMain.resources
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.frmSplash.resources
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.Resources.resources
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.exe
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.xml
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.pdb
+Z:\VB Files\New Programs\DwgNum2\WindowsApplication1\obj\Debug\DwgNum3.frmNew.resources
